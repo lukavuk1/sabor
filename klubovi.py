@@ -1,1 +1,1 @@
-print("U datoteci sabor se nalazi hdz most i sdp")
+print("U datoteci sabor se nalazi hdz  i sdp")
