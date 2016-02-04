@@ -1,0 +1,1 @@
+print("U datoteci sabor se nalazi hdz most i sdp")
