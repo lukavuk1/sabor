@@ -1,1 +1,0 @@
-print("ovo je datoteka iz mosta , zastupnici")
